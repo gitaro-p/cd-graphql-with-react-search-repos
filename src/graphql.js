@@ -43,7 +43,7 @@ export const SEARCH_REPOSITORIES = gql`
 
 export const ME = gql`
   query me {
-    user(login: "iteachonudemy") {
+    user(login: "gitaro-p") {
       name
       avatarUrl
     }
