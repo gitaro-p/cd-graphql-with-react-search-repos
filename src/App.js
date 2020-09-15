@@ -10,7 +10,7 @@ const DEFAULT_STATE = {
   after: null,
   last: null,
   before: null,
-  query: 'フロントエンドエンジニア'
+  query: 'フロントエンド'
 };
 
 class App extends Component {
